@@ -33,4 +33,4 @@ jspm_packages
 .results.json
 
 #API KEY
-src/containers/GifListContainer.js
+.src/containers/GifListContainer.js
